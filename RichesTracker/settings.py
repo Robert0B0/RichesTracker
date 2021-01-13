@@ -27,7 +27,7 @@ SECRET_KEY = 'g&)sefo286b-o%&&+qvme69j3nrn#gf90l!2-8m8%#6v5m1$^^'
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['richestracker-personalproject.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['richestracker.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
