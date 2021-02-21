@@ -1,5 +1,5 @@
 body {
-    background: lightgray fixed;
+    background: linear-gradient(to bottom right, lightgreen, grey);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
